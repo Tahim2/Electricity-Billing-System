@@ -1,0 +1,5 @@
+
+
+ interface Billable {
+    double calculateBill();
+}
